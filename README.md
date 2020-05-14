@@ -9,17 +9,13 @@ type the following:
 
 The instructions.txt file contains the following sample Assembly Instructions to try the program:
 
-`ADD 1, 2, 3
-
-branch:
-
-XOR 1, 2, 3
-
-SW 1, 2(3)
-
-LW 1, 3(4)
-
-J branch`
+`ADD 1, 2, 3`
+`branch:`
+`XOR 1, 2, 3`
+`SW 1, 2(3)`
+`LW 1, 3(4)`
+`J`
+`branch`
 
 # Contact
 
