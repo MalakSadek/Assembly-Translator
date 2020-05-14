@@ -1,5 +1,5 @@
 # Assembly-Translator
-A translator implmented in Java that uses Regex to translate an Assembly Instruction into Machine Code 🔁 🖥 (2015)
+A translator implmented in Java that uses Regex to translate an Assembly Instruction into Machine Code 🔁 🖥 (2015).
 
 # Running the Tool
 
